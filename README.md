@@ -10,8 +10,8 @@ This repository is the official implementation of [Densely connected normalizing
 - Python 3.8
 
 ```
-    pip install -r requirements.txt
-    pip install -e .
+pip install -r requirements.txt
+pip install -e .
 ```
 ## Training
   
