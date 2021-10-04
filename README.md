@@ -9,10 +9,10 @@ This repository is the official implementation of [Densely connected normalizing
 - CUDA 11.1 
 - Python 3.8
 
-
+```
     pip install -r requirements.txt
     pip install -e .
-
+```
 ## Training
   
 ```
