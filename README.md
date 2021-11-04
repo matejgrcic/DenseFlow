@@ -1,6 +1,6 @@
 # Densely connected normalizing flows
 
-This repository is the official implementation of [Densely connected normalizing flows](https://arxiv.org/abs/2106.04627).
+This repository is the official implementation of **NeurIPS 2021** paper [Densely connected normalizing flows](https://arxiv.org/abs/2106.04627).
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/densely-connected-normalizing-flows/image-generation-on-imagenet-32x32)](https://paperswithcode.com/sota/image-generation-on-imagenet-32x32?p=densely-connected-normalizing-flows)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/densely-connected-normalizing-flows/image-generation-on-imagenet-64x64)](https://paperswithcode.com/sota/image-generation-on-imagenet-64x64?p=densely-connected-normalizing-flows)
