@@ -124,7 +124,7 @@ class InvertibleDenseBlock(Transform):
         for i, block in enumerate(self.blocks.children()):
             if i != 0:
                 g_in = torch.cat(g_inputs, dim=1)
-                eta, delta_ll = self.cross_unit_coupling(g_in, self.blocks[i-1])
+                eta, delta_ll = self.cross_unit_coupling(g_in, self.noise_params[i-1])
                 g_inputs.append(x_in)
                 x_in = torch.cat((x_in, eta), dim=1)
                 x_out, ldi = block(x_in)
