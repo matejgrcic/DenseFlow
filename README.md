@@ -5,6 +5,7 @@ Poster available [here](assets/poster_DenseFlow.png).
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/densely-connected-normalizing-flows/image-generation-on-imagenet-32x32)](https://paperswithcode.com/sota/image-generation-on-imagenet-32x32?p=densely-connected-normalizing-flows)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/densely-connected-normalizing-flows/image-generation-on-imagenet-64x64)](https://paperswithcode.com/sota/image-generation-on-imagenet-64x64?p=densely-connected-normalizing-flows)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=matejgrcic.DenseFlow)
 
 ##  Setup
 
