@@ -68,6 +68,9 @@ python eval_loglik.py --model PATH_TO_MODEL --k 200 --kbs 25
 ## Model weights
 Model weights are stored [here](https://drive.google.com/file/d/1CAX-TV4ZTtNbb57UYTn6j-rY7CQFpocp/view?usp=sharing).
 
+**Update Dec 2023.** Note that our ImageNet models are trained on the publicly available version of the dataset at https://image-net.org 
+
+
 ## Samples generation
 Generated samples are stored in `PATH_TO_MODEL/samples`
 ```
